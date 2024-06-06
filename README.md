@@ -1,1 +1,1 @@
-My solutions to LeetCode problems of various topics and difficulty levels
+My solutions to medium and difficult LeetCode problems and difficulty levels
