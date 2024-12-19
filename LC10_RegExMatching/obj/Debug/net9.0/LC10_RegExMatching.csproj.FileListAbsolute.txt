@@ -1,0 +1,15 @@
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\bin\Debug\net9.0\LC10_RegExMatching.exe
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\bin\Debug\net9.0\LC10_RegExMatching.deps.json
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\bin\Debug\net9.0\LC10_RegExMatching.runtimeconfig.json
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\bin\Debug\net9.0\LC10_RegExMatching.dll
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\bin\Debug\net9.0\LC10_RegExMatching.pdb
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\LC10_RegExMatching.GeneratedMSBuildEditorConfig.editorconfig
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\LC10_RegExMatching.AssemblyInfoInputs.cache
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\LC10_RegExMatching.AssemblyInfo.cs
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\LC10_RegExMatching.csproj.CoreCompileInputs.cache
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\LC10_RegExMatching.sourcelink.json
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\LC10_RegExMatching.dll
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\refint\LC10_RegExMatching.dll
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\LC10_RegExMatching.pdb
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\LC10_RegExMatching.genruntimeconfig.cache
+c:\SEAN\CS Projects\LeetCode\LC10_RegExMatching\obj\Debug\net9.0\ref\LC10_RegExMatching.dll

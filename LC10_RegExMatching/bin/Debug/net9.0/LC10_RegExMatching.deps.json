@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LC10_RegExMatching/1.0.0": {
+        "runtime": {
+          "LC10_RegExMatching.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LC10_RegExMatching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
