@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lc300_longest_increasing_subsequence_medium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af0692aaeb1c908d8f334ace2bc04739bd02b5d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0d13f04cb0118a4b7baf76c249f740f8238d57e")]
 [assembly: System.Reflection.AssemblyProductAttribute("lc300_longest_increasing_subsequence_medium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lc300_longest_increasing_subsequence_medium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

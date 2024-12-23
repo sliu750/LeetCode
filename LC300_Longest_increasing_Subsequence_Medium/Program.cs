@@ -30,34 +30,30 @@ namespace LC300
             return maxLISLength;
         }
 
+        static void testLIS(int[] arr)
+        {
+            int LISLength = LengthOfLIS(arr);
+            Console.WriteLine(LISLength);
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("STARTING");
 
             Console.Write("\nTest Case 1: ");
-            int[] arr1 = [4, 10, 4, 3, 8, 9];
-            int lengthOfLIS1 = LengthOfLIS(arr1);
-            Console.WriteLine(lengthOfLIS1);
+            testLIS([4, 10, 4, 3, 8, 9]);;
 
             Console.Write("\nTest Case 2: ");
-            int[] arr2 = [1, 3, 2, 5, 5, 9, 7];
-            int lengthOfLIS2 = LengthOfLIS(arr2);
-            Console.WriteLine(lengthOfLIS2);
+            testLIS([1, 3, 2, 5, 5, 9, 7]);
 
             Console.Write("\nTest Case 3: ");
-            int[] arr3 = [7, 6, 5, 4, 3, 2, 1];
-            int lengthOfLIS3 = LengthOfLIS(arr3);
-            Console.WriteLine(lengthOfLIS3);
+            testLIS([7, 6, 5, 4, 3, 2, 1]);
 
             Console.Write("\nTest Case 4: ");
-            int[] arr4 = [100, 200, 300, 400, 500];
-            int lengthOfLIS4 = LengthOfLIS(arr4);
-            Console.WriteLine(lengthOfLIS4);
+            testLIS([100, 200, 300, 400, 500]);
 
             Console.Write("\nTest Case 5: ");
-            int[] arr5 = [10, 9, 2, 5, 3, 7, 101, 18];
-            int lengthOfLIS5 = LengthOfLIS(arr5);
-            Console.WriteLine(lengthOfLIS5);
+            testLIS([10, 9, 2, 5, 3, 7, 101, 18]);
 
             Console.WriteLine("\nFINISHED");
         }
