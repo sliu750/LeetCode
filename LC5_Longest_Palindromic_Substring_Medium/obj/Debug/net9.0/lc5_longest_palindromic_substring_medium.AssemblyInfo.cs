@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lc5_longest_palindromic_substring_medium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ad1d214eaabc40042df8f741901eefd9a6ab3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+139b25ecadce68b694c2fa30b736851d28c6f082")]
 [assembly: System.Reflection.AssemblyProductAttribute("lc5_longest_palindromic_substring_medium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lc5_longest_palindromic_substring_medium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
