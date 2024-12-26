@@ -1,0 +1,15 @@
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\lc44_wildcard_matching_hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\lc44_wildcard_matching_hard.AssemblyInfoInputs.cache
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\lc44_wildcard_matching_hard.AssemblyInfo.cs
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\lc44_wildcard_matching_hard.csproj.CoreCompileInputs.cache
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\lc44_wildcard_matching_hard.sourcelink.json
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\bin\Debug\net9.0\lc44_wildcard_matching_hard.exe
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\bin\Debug\net9.0\lc44_wildcard_matching_hard.deps.json
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\bin\Debug\net9.0\lc44_wildcard_matching_hard.runtimeconfig.json
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\bin\Debug\net9.0\lc44_wildcard_matching_hard.dll
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\bin\Debug\net9.0\lc44_wildcard_matching_hard.pdb
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\lc44_wildcard_matching_hard.dll
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\refint\lc44_wildcard_matching_hard.dll
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\lc44_wildcard_matching_hard.pdb
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\lc44_wildcard_matching_hard.genruntimeconfig.cache
+C:\SEAN\CS Projects\LeetCode\lc44_wildcard_matching_hard\obj\Debug\net9.0\ref\lc44_wildcard_matching_hard.dll
