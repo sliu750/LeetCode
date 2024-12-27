@@ -1,0 +1,15 @@
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\bin\Debug\net9.0\lc87_scramble_string_hard.exe
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\bin\Debug\net9.0\lc87_scramble_string_hard.deps.json
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\bin\Debug\net9.0\lc87_scramble_string_hard.runtimeconfig.json
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\bin\Debug\net9.0\lc87_scramble_string_hard.dll
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\bin\Debug\net9.0\lc87_scramble_string_hard.pdb
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\lc87_scramble_string_hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\lc87_scramble_string_hard.AssemblyInfoInputs.cache
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\lc87_scramble_string_hard.AssemblyInfo.cs
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\lc87_scramble_string_hard.csproj.CoreCompileInputs.cache
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\lc87_scramble_string_hard.sourcelink.json
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\lc87_scramble_string_hard.dll
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\refint\lc87_scramble_string_hard.dll
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\lc87_scramble_string_hard.pdb
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\lc87_scramble_string_hard.genruntimeconfig.cache
+C:\SEAN\CS Projects\LeetCode\lc87_scramble_string_hard\obj\Debug\net9.0\ref\lc87_scramble_string_hard.dll
