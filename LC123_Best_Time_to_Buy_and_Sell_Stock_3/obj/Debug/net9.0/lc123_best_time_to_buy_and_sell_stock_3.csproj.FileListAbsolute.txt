@@ -1,0 +1,15 @@
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.AssemblyInfoInputs.cache
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.AssemblyInfo.cs
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.csproj.CoreCompileInputs.cache
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.sourcelink.json
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\bin\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.exe
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\bin\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.deps.json
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\bin\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.runtimeconfig.json
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\bin\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.dll
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\bin\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.pdb
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.dll
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\refint\lc123_best_time_to_buy_and_sell_stock_3.dll
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.pdb
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\lc123_best_time_to_buy_and_sell_stock_3.genruntimeconfig.cache
+C:\SEAN\CS Projects\LeetCode\lc123_best_time_to_buy_and_sell_stock_3\obj\Debug\net9.0\ref\lc123_best_time_to_buy_and_sell_stock_3.dll

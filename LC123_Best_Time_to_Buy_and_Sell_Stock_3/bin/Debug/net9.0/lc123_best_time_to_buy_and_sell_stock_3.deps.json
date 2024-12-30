@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "lc123_best_time_to_buy_and_sell_stock_3/1.0.0": {
+        "runtime": {
+          "lc123_best_time_to_buy_and_sell_stock_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lc123_best_time_to_buy_and_sell_stock_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
