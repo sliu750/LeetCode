@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LC23_Merge_k_Sorted_Lists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ef7d4a602454591bf3d6c76bd0a2eeff9ea5f78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+397a5c3bd276ea592c368e69e6dd8d87fdb2ea41")]
 [assembly: System.Reflection.AssemblyProductAttribute("LC23_Merge_k_Sorted_Lists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LC23_Merge_k_Sorted_Lists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
