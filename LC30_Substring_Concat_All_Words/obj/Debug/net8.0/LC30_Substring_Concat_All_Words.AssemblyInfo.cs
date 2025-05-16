@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LC30_Substring_Concat_All_Words")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a7356c20aa2168692abb8002b08b7ba4df0d438")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+726b4e8cb6ed208b6702b6053da9561a2758b6cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LC30_Substring_Concat_All_Words")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LC30_Substring_Concat_All_Words")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
