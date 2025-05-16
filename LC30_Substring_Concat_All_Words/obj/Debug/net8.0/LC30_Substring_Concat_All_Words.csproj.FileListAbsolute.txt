@@ -1,0 +1,15 @@
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\bin\Debug\net8.0\LC30_Substring_Concat_All_Words.exe
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\bin\Debug\net8.0\LC30_Substring_Concat_All_Words.deps.json
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\bin\Debug\net8.0\LC30_Substring_Concat_All_Words.runtimeconfig.json
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\bin\Debug\net8.0\LC30_Substring_Concat_All_Words.dll
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\bin\Debug\net8.0\LC30_Substring_Concat_All_Words.pdb
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\LC30_Substring_Concat_All_Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\LC30_Substring_Concat_All_Words.AssemblyInfoInputs.cache
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\LC30_Substring_Concat_All_Words.AssemblyInfo.cs
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\LC30_Substring_Concat_All_Words.csproj.CoreCompileInputs.cache
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\LC30_Substring_Concat_All_Words.sourcelink.json
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\LC30_Substring_Concat_All_Words.dll
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\refint\LC30_Substring_Concat_All_Words.dll
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\LC30_Substring_Concat_All_Words.pdb
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\LC30_Substring_Concat_All_Words.genruntimeconfig.cache
+C:\Sean\LeetCode\LC30_Substring_Concat_All_Words\obj\Debug\net8.0\ref\LC30_Substring_Concat_All_Words.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LC30_Substring_Concat_All_Words/1.0.0": {
+        "runtime": {
+          "LC30_Substring_Concat_All_Words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LC30_Substring_Concat_All_Words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
