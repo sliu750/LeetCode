@@ -14,68 +14,7 @@ public class LC30
         int w = words.Length; // w = number of strings in words
         int m = words[0].Length; // m = length of each string in words
 
-        // Create a frequency dictionary for all the strings in words.
-        Dictionary<string, int> wordFreq = new Dictionary<string, int>();
-        foreach (string word in words)
-        {
-            // Note: it's possible that the same string appears multiple times in words (e.g. Example 2).
-            if (wordFreq.ContainsKey(word))
-            {
-                wordFreq[word]++;
-            }
-            else
-            {
-                wordFreq[word] = 1;
-            }
-        }
-
-        // Examine every possible starting offset from 0 up to m - 1 characters.
-        int leftIndex = 0;
-        int rightIndex = 0;
-        Dictionary<string, int> currentCount = null;
-        String currWord = null;
-        String leftWord = null;
-        for (int i = 0; i < m; i++)
-        {
-            leftIndex = i;
-            rightIndex = i;
-            currentCount = new Dictionary<string, int>();
-
-            while (rightIndex + m <= n) // Make sure that we don't go out of index.
-            {
-                currWord = s.Substring(rightIndex, m);
-                rightIndex += m;
-
-                if (wordFreq.ContainsKey(currWord))
-                {
-                    if (currentCount.ContainsKey(currWord))
-                        currentCount[currWord]++;
-                    else
-                        currentCount[currWord] = 1;
-
-                    // if currWord's count exceeds the expected frequency
-                    while (currentCount[currWord] > wordFreq[currWord])
-                    {
-                        leftWord = s.Substring(leftIndex, m);
-                        currentCount[leftWord]--;
-                        leftIndex += m;
-                    }
-
-                    // Check if the window is a valid permutation of words, and if so, add left to answer.
-                    if (rightIndex - leftIndex == w * m)
-                    {
-                        answer.Add(leftIndex);
-                    }
-                }
-                else
-                {
-                    // Reset window.
-                    currentCount.Clear();
-                    leftIndex = rightIndex;
-                }
-            }
-        }
-        return answer;
+        // 
     }
 
     public static void test1()
