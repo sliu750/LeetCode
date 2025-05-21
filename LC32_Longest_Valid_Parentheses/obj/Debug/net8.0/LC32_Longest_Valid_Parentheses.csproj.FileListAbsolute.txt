@@ -1,0 +1,15 @@
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\bin\Debug\net8.0\LC32_Longest_Valid_Parentheses.exe
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\bin\Debug\net8.0\LC32_Longest_Valid_Parentheses.deps.json
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\bin\Debug\net8.0\LC32_Longest_Valid_Parentheses.runtimeconfig.json
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\bin\Debug\net8.0\LC32_Longest_Valid_Parentheses.dll
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\bin\Debug\net8.0\LC32_Longest_Valid_Parentheses.pdb
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\LC32_Longest_Valid_Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\LC32_Longest_Valid_Parentheses.AssemblyInfoInputs.cache
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\LC32_Longest_Valid_Parentheses.AssemblyInfo.cs
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\LC32_Longest_Valid_Parentheses.csproj.CoreCompileInputs.cache
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\LC32_Longest_Valid_Parentheses.sourcelink.json
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\LC32_Longest_Valid_Parentheses.dll
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\refint\LC32_Longest_Valid_Parentheses.dll
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\LC32_Longest_Valid_Parentheses.pdb
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\LC32_Longest_Valid_Parentheses.genruntimeconfig.cache
+C:\Sean\LeetCode\LC32_Longest_Valid_Parentheses\obj\Debug\net8.0\ref\LC32_Longest_Valid_Parentheses.dll
