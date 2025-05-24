@@ -1,0 +1,15 @@
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\bin\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.exe
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\bin\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.deps.json
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\bin\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.runtimeconfig.json
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\bin\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.dll
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\bin\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.pdb
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.AssemblyInfoInputs.cache
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.AssemblyInfo.cs
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.csproj.CoreCompileInputs.cache
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.sourcelink.json
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.dll
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\refint\LC84_Largest_Rectangle_in_Histogram.dll
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.pdb
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\LC84_Largest_Rectangle_in_Histogram.genruntimeconfig.cache
+C:\Sean\LeetCode\LC84_Largest_Rectangle_in_Histogram\obj\Debug\net8.0\ref\LC84_Largest_Rectangle_in_Histogram.dll
