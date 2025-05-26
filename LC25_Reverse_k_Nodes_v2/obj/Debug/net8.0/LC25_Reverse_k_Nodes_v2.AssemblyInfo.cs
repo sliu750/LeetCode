@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LC25_Reverse_k_Nodes_v2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba3bc055a102b1ed59771ae4e2d1ddb4348b16b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a7356c20aa2168692abb8002b08b7ba4df0d438")]
 [assembly: System.Reflection.AssemblyProductAttribute("LC25_Reverse_k_Nodes_v2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LC25_Reverse_k_Nodes_v2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
