@@ -1,0 +1,15 @@
+C:\Sean\LeetCode\LC51_N_Queens\bin\Debug\net8.0\LC51_N_Queens.exe
+C:\Sean\LeetCode\LC51_N_Queens\bin\Debug\net8.0\LC51_N_Queens.deps.json
+C:\Sean\LeetCode\LC51_N_Queens\bin\Debug\net8.0\LC51_N_Queens.runtimeconfig.json
+C:\Sean\LeetCode\LC51_N_Queens\bin\Debug\net8.0\LC51_N_Queens.dll
+C:\Sean\LeetCode\LC51_N_Queens\bin\Debug\net8.0\LC51_N_Queens.pdb
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\LC51_N_Queens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\LC51_N_Queens.AssemblyInfoInputs.cache
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\LC51_N_Queens.AssemblyInfo.cs
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\LC51_N_Queens.csproj.CoreCompileInputs.cache
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\LC51_N_Queens.sourcelink.json
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\LC51_N_Queens.dll
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\refint\LC51_N_Queens.dll
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\LC51_N_Queens.pdb
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\LC51_N_Queens.genruntimeconfig.cache
+C:\Sean\LeetCode\LC51_N_Queens\obj\Debug\net8.0\ref\LC51_N_Queens.dll
