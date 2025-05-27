@@ -1,0 +1,15 @@
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\bin\Debug\net8.0\LC131_Palindrome_Partitioning.exe
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\bin\Debug\net8.0\LC131_Palindrome_Partitioning.deps.json
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\bin\Debug\net8.0\LC131_Palindrome_Partitioning.runtimeconfig.json
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\bin\Debug\net8.0\LC131_Palindrome_Partitioning.dll
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\bin\Debug\net8.0\LC131_Palindrome_Partitioning.pdb
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\LC131_Palindrome_Partitioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\LC131_Palindrome_Partitioning.AssemblyInfoInputs.cache
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\LC131_Palindrome_Partitioning.AssemblyInfo.cs
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\LC131_Palindrome_Partitioning.csproj.CoreCompileInputs.cache
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\LC131_Palindrome_Partitioning.sourcelink.json
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\LC131_Palindrome_Partitioning.dll
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\refint\LC131_Palindrome_Partitioning.dll
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\LC131_Palindrome_Partitioning.pdb
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\LC131_Palindrome_Partitioning.genruntimeconfig.cache
+C:\Sean\LeetCode\LC131_Palindrome_Partitioning\obj\Debug\net8.0\ref\LC131_Palindrome_Partitioning.dll
