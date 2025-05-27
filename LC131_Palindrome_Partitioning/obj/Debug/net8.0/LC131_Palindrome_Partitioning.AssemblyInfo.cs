@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LC131_Palindrome_Partitioning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5769e0e0d0bf05f31938fbde790d5f69c4c11c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+746674abc5fd0a3f1c9ede5a39d9d6e461b5a3c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LC131_Palindrome_Partitioning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LC131_Palindrome_Partitioning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
