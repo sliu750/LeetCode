@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC140_Word_Break_II", "LC140_Word_Break_II.csproj", "{959057E1-A514-ABAC-D88E-E19BFFDF9FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959057E1-A514-ABAC-D88E-E19BFFDF9FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959057E1-A514-ABAC-D88E-E19BFFDF9FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959057E1-A514-ABAC-D88E-E19BFFDF9FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959057E1-A514-ABAC-D88E-E19BFFDF9FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BE8DB7-AC69-409A-A0EF-8C96BCE26250}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Sean\LeetCode\LC140_Word_Break_II\bin\Debug\net8.0\LC140_Word_Break_II.exe
+C:\Sean\LeetCode\LC140_Word_Break_II\bin\Debug\net8.0\LC140_Word_Break_II.deps.json
+C:\Sean\LeetCode\LC140_Word_Break_II\bin\Debug\net8.0\LC140_Word_Break_II.runtimeconfig.json
+C:\Sean\LeetCode\LC140_Word_Break_II\bin\Debug\net8.0\LC140_Word_Break_II.dll
+C:\Sean\LeetCode\LC140_Word_Break_II\bin\Debug\net8.0\LC140_Word_Break_II.pdb
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\LC140_Word_Break_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\LC140_Word_Break_II.AssemblyInfoInputs.cache
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\LC140_Word_Break_II.AssemblyInfo.cs
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\LC140_Word_Break_II.csproj.CoreCompileInputs.cache
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\LC140_Word_Break_II.sourcelink.json
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\LC140_Word_Break_II.dll
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\refint\LC140_Word_Break_II.dll
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\LC140_Word_Break_II.pdb
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\LC140_Word_Break_II.genruntimeconfig.cache
+C:\Sean\LeetCode\LC140_Word_Break_II\obj\Debug\net8.0\ref\LC140_Word_Break_II.dll
